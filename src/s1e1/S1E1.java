@@ -26,6 +26,7 @@ public class S1E1 {
         double area = (Math.pow(radio,2))*Math.PI;
         
         System.out.println("el área del ciruclo es: "+area);
+        //yes
         
     }
     
